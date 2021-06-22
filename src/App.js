@@ -23,9 +23,7 @@ export default function App() {
               Open-cource code
             </a>{" "}
             by Jeanne Darcel thanks to{" "}
-            <a href="https://shecodes.io" target="_blank" rel="noreferrer">
-              SheCodes
-            </a>{" "}
+            <a href="https://shecodes.io" target="_blank" rel="noreferrer"></a>{" "}
             👩‍💻
           </small>
         </footer>
