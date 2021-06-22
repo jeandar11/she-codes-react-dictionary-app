@@ -4,9 +4,7 @@ export default function App() {
   return (
     <div className="App">
       <header>
-        <a href="#" className="btn btn-primary">
-          Hello
-        </a>
+        <button className="btn btn-primary">Hello</button>
       </header>
     </div>
   );
